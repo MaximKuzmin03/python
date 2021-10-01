@@ -1,0 +1,5 @@
+a = float(input("введите час: "))
+b = float(input("введите минуты: "))
+c = float(input("введите секнуды: "))
+S = a * 3600 + b * 60 + c
+print (S)

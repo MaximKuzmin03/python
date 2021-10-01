@@ -1,0 +1,4 @@
+w = float(input("введите вес: "))
+h = float(input("введите рост: "))
+BMI = w / (h * h)
+print (BMI)
